@@ -1,3 +1,4 @@
 # jtg
 
-this assignment is for josh technology. 
+this assignment is for josh technology for the front-end developer role
+
